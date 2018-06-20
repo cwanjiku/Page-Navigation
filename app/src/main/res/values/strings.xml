@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Page Navigation</string>
+
+    <string-array name="products">
+        <item>Unga</item>
+        <item>Sugar</item>
+        <item>Salt</item>
+        <item>Soda</item>
+        <item>Books</item>
+        <item>Pens</item>
+        <item>Buckets</item>
+        <item>Clothes</item>
+        <item>Shoes</item>
+        <item>Socks</item>
+        <item>Rice</item>
+        <item>water</item>
+        <item>peels</item>
+
+    </string-array>
+
+    <string-array name="services">
+        <item>Loans</item>
+        <item>Insurance</item>
+        <item>Personal Banking</item>
+        <item>Bonuses</item>
+        <item>Consultancy</item>
+        <item>computer services</item>
+    </string-array>
+
+</resources>
